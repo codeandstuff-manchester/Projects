@@ -4,7 +4,7 @@ Welcoe to the CodeandStuff project repository. This repository contains projects
 
 ## Projects
 
-* [HTML Project 1](html\html-project-1\html-project-1.md)
+* [HTML Project 1](https://github.com/codeandstuff-manchester/Projects/blob/master/html/html-project-1/html-project-1.md)
 
 ## Working on your Projects
 
